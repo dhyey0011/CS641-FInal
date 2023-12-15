@@ -15,7 +15,7 @@ Firebase Authentication: Provides secure user authentication.
 
 ## Getting Started
 ### Clone the Repository: Clone the repository to your local machine using the following command:
-  - git clone https://github.com/your-username/mern-stack-notes-app.git
+  - git clone [https://github.com/your-username/mern-stack-notes-app.git](https://github.com/dhyey0011/CS641-Final.git)
 ### Install Dependencies: Navigate to the project directory and install the required dependencies for both the server and client:
   - cd mern-stack-notes-app
   - npm install
