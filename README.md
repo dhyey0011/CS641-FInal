@@ -23,18 +23,18 @@ This MERN (MongoDB, Express.js, React.js, Node.js) stack application is a simple
   - npm install
 ###  Set Up Firebase Project:
 
-Create a Firebase project on the Firebase Console.
-Obtain your Firebase configuration (apiKey, authDomain, projectId, etc.) and replace the placeholders in the client/src/firebase.js file.
-Set Up MongoDB Atlas:
-Create a MongoDB Atlas account and set up a cluster.
-Obtain your MongoDB connection string and replace the placeholder in the server/config/db.js file.
-Run the Application:
-Start the server: cd server
-Start the client: npm start
-
-cd client
-npm start
-The application should be accessible at http://localhost:3000.
+- Create a Firebase project on the Firebase Console.
+- Obtain your Firebase configuration (apiKey, authDomain, projectId, etc.) and replace the placeholders in the client/src/firebase.js file.
+- Set Up MongoDB Atlas: Create a MongoDB Atlas account and set up a cluster.
+- Obtain your MongoDB connection string and replace the placeholder in the server/config/db.js file.
+- Run the Application:
+- Backend
+  1. go to the server directory: cd server
+  2. Start the backend: node server.js 
+- Frontend
+  1. go to client directory: cd client
+  2. start client : npm start
+- The application should be accessible at http://localhost:3000.
 
 ## Usage
 ### Authentication:
