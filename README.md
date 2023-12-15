@@ -7,11 +7,11 @@ This MERN (MongoDB, Express.js, React.js, Node.js) stack application is a simple
 - Real-time Updates: MongoDB's real-time capabilities ensure that the notes are updated in real-time across all connected clients. When a user adds or deletes a note, the changes are immediately reflected in the user interface.
 
 ## Technologies Used
-MongoDB: A NoSQL database used to store and retrieve notes data.
-Express.js: A backend framework for building the RESTful API.
-React.js: A front-end library for building the user interface.
-Node.js: A server-side JavaScript runtime environment.
-Firebase Authentication: Provides secure user authentication.
+- MongoDB: A NoSQL database used to store and retrieve notes data.
+- Express.js: A backend framework for building the RESTful API.
+- React.js: A front-end library for building the user interface.
+- Node.js: A server-side JavaScript runtime environment.
+- Firebase Authentication: Provides secure user authentication.
 
 ## Getting Started
 ### Clone the Repository: Clone the repository to your local machine using the following command:
